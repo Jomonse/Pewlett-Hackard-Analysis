@@ -7,10 +7,12 @@ company call Pewlett-Hackard.
 ## Number of Retiring Employees by Titlte
 First we want to know the unique retirment titles for the porpuse ok=f knowning what positions will be open and neccessary to fill
 ![First10_unique_titles](https://user-images.githubusercontent.com/21062253/140702590-78067270-ebaf-49c6-b12b-d73a56c2b1e6.png)
+
 ###Head of the Unique titles table
 
 Then we want to know how many positions will be open for every position and know how many new employees will be neccessary to hire
 ![retirement_titles](https://user-images.githubusercontent.com/21062253/140703025-373734e2-e868-4504-87c3-2e9b1baf6ac6.png)
+
 ###Number of retirment titles
 
 ##Mentorship
