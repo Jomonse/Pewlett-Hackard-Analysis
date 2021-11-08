@@ -168,3 +168,4 @@ FROM retirement_info as ri
 INNER JOIN dept_info as di
 ON ri.emp_no = di.emp_no
 WHERE di.dept_name IN ('Sales', 'Development');
+
